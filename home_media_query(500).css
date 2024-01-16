@@ -1,0 +1,17 @@
+@media (max-width: 500px) {
+    .home .navi .navbtn {
+        display: block;
+    }
+
+    .home .navigation {
+        display: none;
+    }
+
+    .home .show {
+        display: flex;
+    }
+
+    .home .hide {
+        display: none;
+    }
+}
